@@ -18,7 +18,6 @@ The project covers the full modeling cycle: exploratory analysis, preprocessing,
 | | Result |
 |---|---|
 | **Final position** | 🏆 1st place |
-| **Team** | `Grupo_4. Locos por la IA` |
 | **Public Leaderboard** | `R² = 0.86424` |
 | **Private Leaderboard** | **`R² = 0.87054`** |
 | **Best model family** | Extra Trees Regressor |

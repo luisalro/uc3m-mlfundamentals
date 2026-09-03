@@ -51,16 +51,12 @@ Higher values indicate better predictive performance.
 
 The public score was calculated using approximately 45% of the hidden test data.
 
-![Public leaderboard — Grupo 4 in 1st place](assets/public-leaderboard.png)
-
 **Score:** `0.86424`  
 **Position:** `1st`
 
 ### Private Leaderboard
 
 The private score was calculated using the remaining approximately 55% of the hidden test data and determined the final competition ranking.
-
-![Private leaderboard — Grupo 4 in 1st place](assets/private-leaderboard.png)
 
 **Final score:** `0.87054`  
 **Final position:** **1st overall**

@@ -9,7 +9,7 @@
 
 A complete regression workflow developed for the **Machine Learning Fundamentals — April 2026** Kaggle competition.
 
-The project covers the full modeling cycle: exploratory analysis, preprocessing, feature selection, model comparison, hyperparameter tuning and ensembling. The final submission from **Grupo_4. Locos por la IA** finished **1st overall** on the final Private Leaderboard with an **R² score of 0.87054**.
+The project covers the full modeling cycle: exploratory analysis, preprocessing, feature selection, model comparison, hyperparameter tuning and ensembling. The final submission finished **1st overall** on the final Private Leaderboard with an **R² score of 0.87054**.
 
 ---
 
